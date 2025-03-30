@@ -1,0 +1,26 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "description text",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "https://github.com/stds58/devops_module10_compose#readme",
+  "bugs": {
+    "url": "https://github.com/stds58/devops_module10_compose/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stds58/devops_module10_compose.git"
+  },
+  "license": "ISC",
+  "author": "valar",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \\\"error: no test specified\\\" && exit 1"
+  }
+}
